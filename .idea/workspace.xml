@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4af386a5-6796-4a9d-ab53-9accc3bda683" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadcreation/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadcreation/Lambda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnonymousThreadExample.executor": "Run",
     "Application.HelloRunnable.executor": "Run",
     "Application.HelloThread.executor": "Run",
     "Application.HelloWorld.executor": "Run",
