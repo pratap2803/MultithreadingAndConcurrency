@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4af386a5-6796-4a9d-ab53-9accc3bda683" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4af386a5-6796-4a9d-ab53-9accc3bda683" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +33,7 @@
   "keyToString": {
     "Application.AnonymousThreadExample.executor": "Run",
     "Application.CallableThreadExample.executor": "Run",
+    "Application.ExecutorServiceExample.executor": "Run",
     "Application.HelloRunnable.executor": "Run",
     "Application.HelloThread.executor": "Run",
     "Application.HelloWorld.executor": "Run",
