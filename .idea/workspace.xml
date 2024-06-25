@@ -40,6 +40,7 @@
     "Application.HelloThread.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Lambda.executor": "Run",
+    "Application.SyncBlocks.executor": "Run",
     "Application.SyncCounter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
