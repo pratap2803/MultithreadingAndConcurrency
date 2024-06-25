@@ -34,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnonymousThreadExample.executor": "Run",
+    "Application.CallableThreadExample.executor": "Run",
     "Application.HelloRunnable.executor": "Run",
     "Application.HelloThread.executor": "Run",
     "Application.HelloWorld.executor": "Run",
